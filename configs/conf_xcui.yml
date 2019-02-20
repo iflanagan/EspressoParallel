@@ -2,10 +2,10 @@
 testFramework: xcuitest
  
 # Path to the app's .ipa or .app.
-app: apps/DummyTestingApp.ipa
+app: ../apps/DummyTestingApp.ipa
  
 # Path to the test runner app's .ipa or .app.
-test: apps/DummyTestingApp-Runner.ipa
+test: ../apps/DummyTestingApp-Runner.ipa
  
 # Path where XML test reports will be saved.
 xmlFolder: ./

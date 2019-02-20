@@ -4,7 +4,7 @@ testFramework: espresso
 app: 51
 
 # Path to the test runner app's .apk
-test: apps/ImagineBanking-1.2-test.apk
+test: ../apps/ImagineBanking-1.2-test.apk
 
 # Path where XML test reports will be saved.
 xmlFolder: ./xml-reports
